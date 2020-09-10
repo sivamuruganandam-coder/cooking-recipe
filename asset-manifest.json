@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cooking-recipe.git/static/css/main.57381e8e.chunk.css",
+    "main.js": "/cooking-recipe.git/static/js/main.c36a417c.chunk.js",
+    "main.js.map": "/cooking-recipe.git/static/js/main.c36a417c.chunk.js.map",
+    "runtime-main.js": "/cooking-recipe.git/static/js/runtime-main.430964d2.js",
+    "runtime-main.js.map": "/cooking-recipe.git/static/js/runtime-main.430964d2.js.map",
+    "static/js/2.52767171.chunk.js": "/cooking-recipe.git/static/js/2.52767171.chunk.js",
+    "static/js/2.52767171.chunk.js.map": "/cooking-recipe.git/static/js/2.52767171.chunk.js.map",
+    "index.html": "/cooking-recipe.git/index.html",
+    "precache-manifest.eab086e5d7f7ee1552b7ee8dcc68231f.js": "/cooking-recipe.git/precache-manifest.eab086e5d7f7ee1552b7ee8dcc68231f.js",
+    "service-worker.js": "/cooking-recipe.git/service-worker.js",
+    "static/css/main.57381e8e.chunk.css.map": "/cooking-recipe.git/static/css/main.57381e8e.chunk.css.map",
+    "static/js/2.52767171.chunk.js.LICENSE.txt": "/cooking-recipe.git/static/js/2.52767171.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cooking-recipe.git/static/media/2184693.5d0373a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.430964d2.js",
+    "static/js/2.52767171.chunk.js",
+    "static/css/main.57381e8e.chunk.css",
+    "static/js/main.c36a417c.chunk.js"
+  ]
+}
